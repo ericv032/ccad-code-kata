@@ -1,2 +1,1 @@
-# ccad-code-kata
-# ccad-code-kata
+# Front End Developer - Code Kata
